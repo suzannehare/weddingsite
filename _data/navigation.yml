@@ -1,0 +1,16 @@
+- name: Our Story
+  link: /#ourstory
+- name: Celebrations
+  link: /celebrations
+- name: People
+  link: /people
+- name: FAQ
+  link: /faq
+- name: City Guide
+  link: /guide
+- name: Registry
+  link: /registry
+- name: Photos
+  link: /photo-gallery
+- name: RSVP
+  modal_id: rsvp-modal

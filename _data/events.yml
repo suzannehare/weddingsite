@@ -1,0 +1,32 @@
+- name: Wedding Ceremony
+  main_event: true
+  date: 2025-06-21 15:00:00 −04:00
+  endDate: 2025-06-21 23:00:00 -04:00
+  attire: formal
+  description: Our wedding ceremony will be at Bethany Lutheran Church. Please arrive at least 10 minutes prior to the start of the ceremony in order to find your seat.  We ask that you please ensure that your cell phones are off and out of sight for the duration of the ceremony.
+  transportation:
+  shuttle:
+  location:
+    address: 8 Lincoln St
+    city: Batavia
+    state: IL
+    long_state: Illinois
+    zip: 60510
+    coordinates: 41.8499026,-88.3127524
+    google_maps_url: https://www.google.com/maps/place/Bethany+Lutheran+Church/@41.8546062,-88.3154031,2890m/data=!3m1!1e3!4m6!3m5!1s0x880efcc7dbd13d03:0xabca414025327c6c!8m2!3d41.8493255!4d-88.3140058!16s%2Fg%2F1tj80knq?entry=ttu
+    venue_name: Bethany Lutheran Church
+  calendar_description: We can't wait to see you on the day of the wedding.
+
+- name: Reception
+  date_alt: Immediately following the ceremony
+  attire: snappy casual
+  description: The wedding reception is at a different venue than the ceremony, Enticing Cuisine. A cocktail hour will commence directly after the ceremony ends. Venue staff will direct you to the reception space. Dinner will be provided.
+  location:
+    address: 1117 N Washington Ave
+    city: Batavia
+    state: Il
+    long_state: Illinois
+    zip: 60510
+    coordinates: 41.8561712,-88.3146077
+    google_maps_url: https://maps.app.goo.gl/X5VgFwVFppkjHKnC8
+    venue_name: Enticing Cuisine

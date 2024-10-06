@@ -1,0 +1,21 @@
+families:
+  - pic: Chani_belly.jpeg
+    name: The Hares
+    people: Timothy, Janelle, Alexander, and Margot
+  - pic: Chani_belly.jpeg
+    name: The Lachats
+    people: Mark and Donna
+kids:
+  - pic: Chani_belly.jpeg
+    name: Daisy
+    role: Precious girl
+her_side:
+  - name: Margot Hare
+    pic: Chani_belly.jpeg
+    role: Maid of Honor
+    description: Honor's Sister
+his_side:
+  - name: Michael ??
+    pic: Chani_belly.jpeg
+    role: Best Man
+    description: Mitch's Best Friend
