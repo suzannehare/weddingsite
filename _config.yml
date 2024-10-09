@@ -31,8 +31,8 @@ permalink: pretty
 exclude:
   - _compress_images_cache.yml
 
-#plugins:
-#  - jekyll-remote-theme
+plugins:
+  - jekyll-remote-theme
 
-theme: jekyll-theme-easy-wedding
-#remote_theme: cnorick/jekyll-theme-easy-wedding
+#theme: jekyll-theme-easy-wedding
+remote_theme: cnorick/jekyll-theme-easy-wedding
